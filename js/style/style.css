@@ -1,0 +1,15 @@
+table{
+    background-color: rgb(66, 66, 66);
+}
+
+td{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+img{
+    border-radius:50% ;
+}
+table{
+    text-align: center;
+}
