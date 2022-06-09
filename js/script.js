@@ -82,6 +82,13 @@ let avatr = tdImage.classList.add('avatar')
             const response = await fetch(`https://6296e8c014e756fe3b254bdd.mockapi.io/api/v1/users/${id}`, {
                 method: 'DELETE'
             });
+            if (confirm("Уверены, что хотите удалить пользователя?")) {
+            
+                alert("Пользователь удален, обновите страницу!");
+                }
+            else {
+                alert("Отмена удаления");
+                }
         }
 
     });

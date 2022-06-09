@@ -40,7 +40,6 @@
  }
  .submit-block {
     padding: 10px 20px 20px;
-    background: repeating-linear-gradient(-30deg, #291810, #291810 8px, #8355b8 10px, #7e5bbe 14px);
     text-align: center;
     cursor: pointer;
  }

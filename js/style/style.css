@@ -1,11 +1,21 @@
+
 table{
-    background-color: rgb(66, 66, 66);
+    /* background-color: rgb(66, 66, 66); */
+    font-family: sans-serif;
+    border-collapse: separate;
+    /* border-spacing: 5px; */
+    color: #656565;
+    background: #ccd2d6;
+    border: 16px solid #a9c1d4;
+    border-radius: 20px;
+
 }
 
 td{
-    background-color: white;
+    background-color: rgb(155, 190, 192);
     margin: 0;
     padding: 0;
+    
 }
 img{
     border-radius:50% ;

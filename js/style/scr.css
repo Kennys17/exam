@@ -1,0 +1,25 @@
+body {
+    background-color: cyan;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+    text-align: center;
+    color: #fff;
+    line-height: 1.5em;
+}
+
+.page {
+    margin: 0 auto 15px;
+    max-width: 224px;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    background-color: rgba(37, 85, 87, 0.774);
+}
+    
+h1 {
+    /* margin-left: 561px; */
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
